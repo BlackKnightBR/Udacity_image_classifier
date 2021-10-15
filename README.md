@@ -32,6 +32,14 @@ ________________________________________
 
 ## Training and prediction:
  *trayn.py and predict.py
+ >> Train a new network on a data set with train.py
+  >>> Basic usage: python train.py data_directory
+  >>> Prints out training loss, validation loss, and validation accuracy as the network trains
+  >>> Options:
+  >>>> Set directory to save checkpoints: python train.py data_dir --save_dir save_directory
+  >>>> Choose architecture: python train.py data_dir --arch "vgg13"
+  >>>> Set hyperparameters: python train.py data_dir --learning_rate 0.01 --hidden_units 512 --epochs 20
+  >>>> Use GPU for training: python train.py data_dir --gpu
 
 __________________________________________
 
@@ -46,13 +54,13 @@ __________________________________________
 
 #### Udacity and peer repos:
 > Reference list:
->> #### udacity(https://github.com/udacity/aipnd-project)
->> #### WittmannF(https://github.com/WittmannF/udacity-image-classifier)
->> #### mishraishan31(https://github.com/mishraishan31/Image-Classifier)
->> #### mudigosa(https://github.com/mudigosa/Image-Classifier)
->> #### S-Tabor(https://github.com/S-Tabor/udacity-image-classifier-project)
+>> #### udacity (https://github.com/udacity/aipnd-project)
+>> #### WittmannF (https://github.com/WittmannF/udacity-image-classifier)
+>> #### mishraishan31 (https://github.com/mishraishan31/Image-Classifier)
+>> #### mudigosa (https://github.com/mudigosa/Image-Classifier)
+>> #### S-Tabor (https://github.com/S-Tabor/udacity-image-classifier-project)
 
 ##### Other sources:
->> ##### PluralSight(https://www.pluralsight.com/guides/image-classification-with-pytorch)
->> ##### Stackoverflow(https://pt.stackoverflow.com/)
->> ##### towardsdatascience(https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
+>> ##### PluralSight (https://www.pluralsight.com/guides/image-classification-with-pytorch)
+>> ##### Stackoverflow (https://pt.stackoverflow.com/)
+>> ##### towardsdatascience (https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)

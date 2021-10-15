@@ -1,2 +1,39 @@
-# Udacity_image_classifier
- Image classifier for udacity nd
+# Udacity image classifier
+________________________________________
+* Flowers version
+
+## Last project from "AI Programming with Python Nanodegree"
+
+#### The objective: Implement an image classification application, training a deep learning model on a dataset of flower images the use the trained model to classify images.
+
+##### First, it will be written in a Jupyter notebook for training and testing, later the app will be written in pure python. Executed by command line.
+
+### How to:
+	#### Open the file "Image Classifier Project.ipynb" on your Jupyter Notebook.
+	#### Or run the files trayn.py and predict.py as shown below.
+
+### Execution:
+
+
+
+## Jupyter Notebook:
+ *Image Classifier Project.ipynb
+
+![My large image](_images/noteBook.png)
+
+## Training and prediction:
+ *trayn.py and predict.py
+
+__________________________________________
+
+### References:
+> Torch py:
+>> ####
+>> ####
+#### Udacity and peer repos:
+> Reference list:
+>> #### udacity(https://github.com/udacity/aipnd-project)
+>> #### WittmannF(https://github.com/WittmannF/udacity-image-classifier)
+>> #### mishraishan31(https://github.com/mishraishan31/Image-Classifier)
+>> #### mudigosa(https://github.com/mudigosa/Image-Classifier)
+>> #### S-Tabor(https://github.com/S-Tabor/udacity-image-classifier-project)

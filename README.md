@@ -19,7 +19,16 @@ ________________________________________
 ## Jupyter Notebook:
  *Image Classifier Project.ipynb
 
-![My large image](_images/noteBook.png)
+ >>The project is broken down into multiple steps:
+
+>>> Load and preprocess the image dataset
+![My small image](_images/notebook01.png)
+>>> Train the image classifier on your dataset
+![My small image](_images/notebook02.png)
+![My small image](_images/notebook03.png)
+>> Use the trained classifier to predict image content
+
+
 
 ## Training and prediction:
  *trayn.py and predict.py

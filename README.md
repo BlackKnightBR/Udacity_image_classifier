@@ -37,8 +37,13 @@ __________________________________________
 
 ### References:
 > Torch py:
->> ####
->> ####
+>> #### https://pytorch.org/tutorials/beginner/basics/buildmodel_tutorial.html
+>> #### http://pytorch.org/docs/0.3.0/torchvision/index.html
+>> #### https://pytorch.org/docs/0.3.0/torchvision/models.html#id2
+>> #### https://pytorch.org/docs/0.3.0/torchvision/datasets.html
+>> #### https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
+>> #### https://github.com/pytorch/examples/blob/master/imagenet/main.py
+
 #### Udacity and peer repos:
 > Reference list:
 >> #### udacity(https://github.com/udacity/aipnd-project)

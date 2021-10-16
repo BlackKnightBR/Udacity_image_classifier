@@ -57,6 +57,7 @@ __________________________________________
 >> #### https://pytorch.org/docs/0.3.0/torchvision/datasets.html
 >> #### https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 >> #### https://github.com/pytorch/examples/blob/master/imagenet/main.py
+>> #### https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#training-on-gpu
 
 #### Udacity and peer repos:
 > Reference list:

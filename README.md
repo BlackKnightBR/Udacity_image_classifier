@@ -14,8 +14,8 @@ ________________________________________
 >> Define the directory for the images.
 >>> ![My small image](_images/details01.png)
 > #### Or run the files train.py and predict.py as shown below.
->>> ![My small image](_images/details02.png)
->>> ![My small image](_images/details03.png)
+>>> #### python train.py your_data_dir
+>>> #### python train.py your_data_dir your_trained_model your_labels
 
 
 ## Jupyter Notebook:

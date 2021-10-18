@@ -21,13 +21,15 @@ ________________________________________
 
  >>The project is broken down into multiple steps:
 
->>> Load and preprocess the image dataset
+>> Load and preprocess the image dataset
 ![My small image](_images/notebook01.png)
->>> Train the image classifier on your dataset
+>> Train the image classifier on your dataset
 ![My small image](_images/notebook02.png)
 ![My small image](_images/notebook03.png)
->> Use the trained classifier to predict image content
+>>Test of the n. network
 ![My small image](_images/notebook04.png)
+>> Use the trained classifier to predict image content
+![My small image](_images/notebook05.png)
 
 
 ## Training and prediction:

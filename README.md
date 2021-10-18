@@ -9,11 +9,10 @@ ________________________________________
 ##### First, it will be written in a Jupyter notebook for training and testing, later the app will be written in pure python. Executed by command line.
 
 ### How to:
-	#### Open the file "Image Classifier Project.ipynb" on your Jupyter Notebook.
-	#### Or run the files trayn.py and predict.py as shown below.
-
-### Execution:
-
+	> #### Open the file "Image Classifier Project.ipynb" on your Jupyter Notebook.
+	>> Define the directory for the images.
+	>>> ![My small image](_images/details01.png)
+	> #### Or run the files train.py and predict.py as shown below.
 
 
 ## Jupyter Notebook:

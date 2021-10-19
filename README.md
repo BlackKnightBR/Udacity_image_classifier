@@ -62,6 +62,7 @@ __________________________________________
 >> #### https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html
 >> #### https://github.com/pytorch/examples/blob/master/imagenet/main.py
 >> #### https://pytorch.org/tutorials/beginner/blitz/cifar10_tutorial.html#training-on-gpu
+>> #### https://pytorch.org/docs/stable/optim.html
 
 #### Udacity and peer repos:
 > Reference list:
@@ -75,3 +76,4 @@ __________________________________________
 > ##### PluralSight (https://www.pluralsight.com/guides/image-classification-with-pytorch)
 > ##### Stackoverflow (https://pt.stackoverflow.com/)
 > ##### towardsdatascience (https://towardsdatascience.com/how-to-train-an-image-classifier-in-pytorch-and-use-it-to-perform-basic-inference-on-single-images-99465a1e9bf5)
+> ##### Sebastian Ruder (https://ruder.io/optimizing-gradient-descent/index.html#fn20)

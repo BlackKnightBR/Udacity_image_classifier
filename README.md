@@ -32,6 +32,7 @@ ________________________________________
 ![My small image](_images/notebook04.png)
 >> Use the trained classifier to predict image content
 ![My small image](_images/notebook05.png)
+![My small image](_images/notebook06.png)
 
 
 ## Training and prediction:

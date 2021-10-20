@@ -54,6 +54,7 @@ ________________________________________
  >> ##### Use GPU for inference: python predict.py input checkpoint --gpu
 
  ![My small image](_images/workspace01.png)
+ ![My small image](_images/workspace02.png)
 __________________________________________
 
 ### References:
